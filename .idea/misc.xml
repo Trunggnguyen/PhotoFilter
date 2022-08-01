@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Photofilter/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.236" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.236" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/bg_btblue.xml" value="0.203" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/bg_btblue_border.xml" value="0.236" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/bg_btwhile.xml" value="0.2445" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/bg_btywllow.xml" value="0.203" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/bg_gradient.xml" value="0.203" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/bg_gradient3.xml" value="0.2135" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.2135" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/ic_baseline_brightness.xml" value="0.2135" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/ic_baseline_close.xml" value="0.2135" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/ic_baseline_color_lens_24.xml" value="0.236" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/ic_baseline_contrast.xml" value="0.2135" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/ic_baseline_crop_24.xml" value="0.2135" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/ic_baseline_done.xml" value="0.2135" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/ic_baseline_filter_vintage_24.xml" value="0.236" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/ic_baseline_photo_filter.xml" value="0.2135" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/ic_baseline_photo_library_24.xml" value="0.2135" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.2135" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/ic_baseline_tonality_24.xml" value="0.1905" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/ic_baseline_whatshot.xml" value="0.2135" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/ic_launcher_background.xml" value="0.236" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/imageview_radious.xml" value="0.236" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/seekbar_track.xml" value="0.2135" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/tab_indicator_default.xml" value="0.2135" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/tab_indicator_selected.xml" value="0.2135" />
+        <entry key="..\:/Photofilter/app/src/main/res/drawable/tab_selector.xml" value="0.2135" />
+        <entry key="..\:/Photofilter/app/src/main/res/layout/activity_allphoto.xml" value="0.22" />
+        <entry key="..\:/Photofilter/app/src/main/res/layout/activity_crop.xml" value="0.33" />
+        <entry key="..\:/Photofilter/app/src/main/res/layout/activity_done.xml" value="0.23854166666666668" />
+        <entry key="..\:/Photofilter/app/src/main/res/layout/activity_intro.xml" value="0.31875" />
+        <entry key="..\:/Photofilter/app/src/main/res/layout/activity_list_photo.xml" value="0.28177083333333336" />
+        <entry key="..\:/Photofilter/app/src/main/res/layout/activity_main.xml" value="0.23854166666666668" />
+        <entry key="..\:/Photofilter/app/src/main/res/layout/activity_photo.xml" value="0.31875" />
+        <entry key="..\:/Photofilter/app/src/main/res/layout/activity_start.xml" value="0.264" />
+        <entry key="..\:/Photofilter/app/src/main/res/layout/content_done.xml" value="0.22291666666666668" />
+        <entry key="..\:/Photofilter/app/src/main/res/layout/content_main.xml" value="0.3531047265987025" />
+        <entry key="..\:/Photofilter/app/src/main/res/layout/fragment_brightness.xml" value="0.22291666666666668" />
+        <entry key="..\:/Photofilter/app/src/main/res/layout/fragment_color.xml" value="0.23854166666666668" />
+        <entry key="..\:/Photofilter/app/src/main/res/layout/fragment_contrast.xml" value="0.22291666666666668" />
+        <entry key="..\:/Photofilter/app/src/main/res/layout/fragment_filters_list.xml" value="0.22291666666666668" />
+        <entry key="..\:/Photofilter/app/src/main/res/layout/fragment_saturation.xml" value="0.22291666666666668" />
+        <entry key="..\:/Photofilter/app/src/main/res/layout/fragment_tone.xml" value="0.23854166666666668" />
+        <entry key="..\:/Photofilter/app/src/main/res/layout/fragment_tones.xml" value="0.2989583333333333" />
+        <entry key="..\:/Photofilter/app/src/main/res/layout/fragment_vintage.xml" value="0.23854166666666668" />
+        <entry key="..\:/Photofilter/app/src/main/res/layout/item_intrroscreen.xml" value="0.22291666666666668" />
+        <entry key="..\:/Photofilter/app/src/main/res/layout/item_nav.xml" value="0.22291666666666668" />
+        <entry key="..\:/Photofilter/app/src/main/res/layout/item_photo.xml" value="0.28177083333333336" />
+        <entry key="..\:/Photofilter/app/src/main/res/layout/thumbnail_list_item.xml" value="0.22291666666666668" />
+        <entry key="..\:/Photofilter/app/src/main/res/menu/bottom_nav_menu.xml" value="0.334375" />
+        <entry key="..\:/Photofilter/app/src/main/res/menu/menu.xml" value="0.22291666666666668" />
+        <entry key="..\:/Photofilter2/app/src/main/res/drawable/bg_btblue.xml" value="0.1555" />
+        <entry key="..\:/Photofilter2/app/src/main/res/drawable/bg_btblue_border.xml" value="0.1555" />
+        <entry key="..\:/Photofilter2/app/src/main/res/drawable/bg_btywllow.xml" value="0.1555" />
+        <entry key="..\:/Photofilter2/app/src/main/res/drawable/bg_gradient.xml" value="0.1555" />
+        <entry key="..\:/Photofilter2/app/src/main/res/drawable/bg_gradient2.xml" value="0.1555" />
+        <entry key="..\:/Photofilter2/app/src/main/res/drawable/bg_gradient3.xml" value="0.1555" />
+        <entry key="..\:/Photofilter2/app/src/main/res/drawable/tab_indicator_default.xml" value="0.1555" />
+        <entry key="..\:/Photofilter2/app/src/main/res/drawable/tab_indicator_selected.xml" value="0.1555" />
+        <entry key="..\:/Photofilter2/app/src/main/res/drawable/tab_selector.xml" value="0.1555" />
+        <entry key="..\:/Photofilter2/app/src/main/res/layout/activity_allphoto.xml" value="0.23854166666666668" />
+        <entry key="..\:/Photofilter2/app/src/main/res/layout/activity_done.xml" value="0.23854166666666668" />
+        <entry key="..\:/Photofilter2/app/src/main/res/layout/activity_intro.xml" value="0.23854166666666668" />
+        <entry key="..\:/Photofilter2/app/src/main/res/layout/activity_list_photo.xml" value="0.23854166666666668" />
+        <entry key="..\:/Photofilter2/app/src/main/res/layout/activity_main.xml" value="0.23854166666666668" />
+        <entry key="..\:/Photofilter2/app/src/main/res/layout/activity_splash.xml" value="0.23854166666666668" />
+        <entry key="..\:/Photofilter2/app/src/main/res/layout/activity_start.xml" value="0.23854166666666668" />
+        <entry key="..\:/Photofilter2/app/src/main/res/layout/content_done.xml" value="0.23854166666666668" />
+        <entry key="..\:/Photofilter2/app/src/main/res/layout/content_main.xml" value="0.23854166666666668" />
+        <entry key="..\:/Photofilter2/app/src/main/res/layout/fragment_brightness.xml" value="0.23854166666666668" />
+        <entry key="..\:/Photofilter2/app/src/main/res/layout/fragment_contrast.xml" value="0.23854166666666668" />
+        <entry key="..\:/Photofilter2/app/src/main/res/layout/fragment_filters_list.xml" value="0.22291666666666668" />
+        <entry key="..\:/Photofilter2/app/src/main/res/layout/fragment_saturation.xml" value="0.22291666666666668" />
+        <entry key="..\:/Photofilter2/app/src/main/res/layout/item_intrroscreen.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Photofilter2/app/src/main/res/drawable/bg_btblue.xml" value="0.2155" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Photofilter2/app/src/main/res/drawable/bg_btblue_border.xml" value="0.2155" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Photofilter2/app/src/main/res/drawable/bg_btwhile.xml" value="0.2155" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Photofilter2/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.2155" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Photofilter2/app/src/main/res/drawable/ic_baseline_brightness.xml" value="0.2155" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Photofilter2/app/src/main/res/drawable/ic_baseline_close.xml" value="0.2155" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Photofilter2/app/src/main/res/drawable/ic_baseline_crop_24.xml" value="0.2155" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Photofilter2/app/src/main/res/drawable/ic_baseline_done.xml" value="0.2155" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Photofilter2/app/src/main/res/drawable/ic_baseline_photo_library_24.xml" value="0.2155" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Photofilter2/app/src/main/res/drawable/ic_baseline_whatshot.xml" value="0.2155" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Photofilter2/app/src/main/res/layout/activity_done.xml" value="0.3568118628359592" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Photofilter2/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Photofilter2/app/src/main/res/layout/activity_start.xml" value="0.346875" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Photofilter2/app/src/main/res/layout/content_done.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Photofilter2/app/src/main/res/layout/content_main.xml" value="0.271875" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Photofilter2/app/src/main/res/layout/fragment_brightness.xml" value="0.3869346733668342" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Photofilter2/app/src/main/res/layout/fragment_contrast.xml" value="0.3869346733668342" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Photofilter2/app/src/main/res/layout/fragment_edit_image.xml" value="0.271875" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Photofilter2/app/src/main/res/layout/fragment_filters_list.xml" value="0.271875" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Photofilter2/app/src/main/res/layout/fragment_saturation.xml" value="0.5259562841530054" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Photofilter2/app/src/main/res/layout/thumbnail_list_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Photofilter2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3415384615384615" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/Photofilter2/app/src/main/res/menu/menu.xml" value="0.1671875" />
+        <entry key="..\:/Users/SVMC/workspace/Photofilter/app/src/main/res/layout/activity_intro.xml" value="0.2421875" />
+        <entry key="..\:/Users/SVMC/workspace/Photofilter/app/src/main/res/layout/activity_splash.xml" value="0.2421875" />
+        <entry key="..\:/Users/SVMC/workspace/Photofilter/app/src/main/res/layout/activity_start.xml" value="0.2421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Embedded JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

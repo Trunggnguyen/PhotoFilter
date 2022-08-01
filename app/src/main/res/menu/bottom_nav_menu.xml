@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_brightness"
+        android:icon="@drawable/ic_baseline_brightness"
+        android:title="Brightness" />
+    <item
+        android:id="@+id/navigation_whatshot"
+        android:icon="@drawable/ic_baseline_contrast"
+        android:title="Contrast" />
+
+    <item
+        android:id="@+id/navigation_crop"
+        android:icon="@drawable/ic_baseline_whatshot"
+        android:title="Saturation" />
+
+    <item
+        android:id="@+id/navigation_filter"
+        android:icon="@drawable/ic_baseline_photo_filter"
+        android:title="Filter" />
+
+</menu>
